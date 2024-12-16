@@ -229,7 +229,7 @@ export const hackathons = [
   {
     name: " Smart India Hackathon 2024",
     description:
-      "On-Campur",
+      "On-Campus",
    
     image: hack5,
  
