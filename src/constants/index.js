@@ -164,35 +164,6 @@ const experiences = [
  
 ];
 
-
-
-/*
-
-const testimonials = [
-  {
-    image: img4,
-    name : "SIH Hackathon", 
-  },
-  {
-   
-    image: img2,
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
-  },
-];
-
-*/
-
-
-
-
-
 export const hackathons = [
   {
     name: "Code Conquest 2024",
@@ -320,17 +291,6 @@ const projects = [
     deployment_link: "",
     source_code_link: "https://github.com/Kunwar-awadhiya/Advance-login-authentication",
   },
-  
-
-    
-
-
-
-
-
-
-
-
 ];
 
 export { services, technologies, experiences,  projects };
